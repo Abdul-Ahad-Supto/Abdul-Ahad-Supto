@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **I'm currently learning Python for data science and exploring various libraries like NumPy, Pandas, and Matplotlib.**
+- 🌱 I’m currently learning **Python for data science and exploring various libraries like NumPy, Pandas, and Matplotlib.**
 
 - 👯 I’m looking to collaborate on **open-source Python projects related to machine learning and Data science."**
 
-- 🤝 I’m looking for help with **I'm looking for help with optimizing the performance of a Python script for large dataset processing.**
+- 🤝 I’m looking for help with **optimizing the performance of a Python script for large dataset processing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Ahad-Supto](https://github.com/Abdul-Ahad-Supto)
 
 - 📝 I regularly write articles on [https://medium.com/@ahadsupto43](https://medium.com/@ahadsupto43)
 
-- 💬 Ask me about **Ask me about Python programming best practices or tips for working with data.**
+- 💬 Ask me about **Python programming best practices or tips for working with data.**
 
 - 📫 How to reach me **ahadsupto43@gmail.com**
 
