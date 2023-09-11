@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **open-source Python projects related to machine learning and Data science."**
 
-- 🤝 I’m looking for help with **optimizing the performance of a Python script for large dataset processing.**
+- 🤝 I’m looking for help with **I'm looking for help with optimizing the performance of a Python script for large dataset processing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Ahad-Supto](https://github.com/Abdul-Ahad-Supto)
 
 - 📝 I regularly write articles on [https://medium.com/@ahadsupto43](https://medium.com/@ahadsupto43)
 
-- 💬 Ask me about **Python programming best practices or tips for working with data.**
+- 💬 Ask me about **Ask me about Python programming best practices or tips for working with data.**
 
 - 📫 How to reach me **ahadsupto43@gmail.com**
 
@@ -26,8 +26,8 @@
 <a href="https://fb.com/ahad.supto.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahad.supto.52/" height="30" width="40" /></a>
 <a href="https://instagram.com/lelouch_fan_boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lelouch_fan_boy" height="30" width="40" /></a>
 <a href="https://medium.com/@ahadsupto43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahadsupto43" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/project with programming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="project with programming" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdul ahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul ahad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@suptoisonfire3937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@suptoisonfire3937" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahadsupto43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahadsupto43" height="30" width="40" /></a>
 <a href="https://discord.gg/FfYaG7gV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FfYaG7gV" height="30" width="40" /></a>
 </p>
 
