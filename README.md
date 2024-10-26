@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Supto</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A passionate cybersecurity enthusiast and programmer from Bangladesh</h3>
 
-<img align="right" alt = "Coding" width = "400" src ="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-ahad-supto&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-ahad-supto" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python**, focusing on cybersecurity challenges.
 
-- 🌱 I’m currently learning **Python for data science and exploring various libraries like NumPy, Pandas, and Matplotlib.**
+- 🌱 I’m currently learning **advanced cryptography, forensic analysis, and exploring Python libraries for cybersecurity**.
 
-- 👯 I’m looking to collaborate on **open-source Python projects related to machine learning and Data science."**
+- 👯 I’m looking to collaborate on **open-source projects in cybersecurity, especially in cryptography and forensics**.
 
-- 🤝 I’m looking for help with **optimizing the performance of a Python script for large dataset processing.**
+- 🤝 I’m looking for help with **optimizing scripts for cryptographic computations and forensic analysis**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Ahad-Supto](https://github.com/Abdul-Ahad-Supto)
+- 👨‍💻 All of my projects and CTF writeups are available at [Writeups](https://github.com/Abdul-Ahad-Supto/Abdul-Ahad-Supto-Capture-The-Flag-CTF/tree/main)
 
-- 📝 I regularly write articles on [https://medium.com/@ahadsupto43](https://medium.com/@ahadsupto43)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@ahadsupto43)
 
-- 💬 Ask me about **Python programming best practices or tips for working with data.**
+- 💬 Ask me about **Python for cybersecurity, cryptographic techniques, forensics challenges or doing some secret agency job or tips for participating in CTFs**.
 
 - 📫 How to reach me **ahadsupto43@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
